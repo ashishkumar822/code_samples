@@ -3,8 +3,6 @@
 
 #include<SerialPort.h>
 
-
-
 class RotatingPlatform
 {
 
