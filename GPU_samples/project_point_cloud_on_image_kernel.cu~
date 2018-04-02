@@ -2,7 +2,6 @@
 
 #include<arc17_computer_vision/project_point_cloud_on_image_kernel.h>
 
-
 __global__ void project_point_cloud_kernel(int n_points,
                                            int image_width,
                                            int image_height,
